@@ -1,0 +1,695 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"jus",
+				"justify-content: flex-end;\t⌬ tabnine"
+			],
+			[
+				"fl",
+				"flex-end;\t⌬ tabnine"
+			],
+			[
+				"fon",
+				"font-weight\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"s",
+				"space-between\tjustify-content"
+			],
+			[
+				"margin",
+				"margin-right\tproperty"
+			],
+			[
+				"mo",
+				"moveSpeed\t⌬ tabnine"
+			],
+			[
+				"lo",
+				"lookDir.\t⌬ tabnine"
+			],
+			[
+				"mou",
+				"mousePos\t⌬ tabnine"
+			],
+			[
+				"v",
+				"Vector2\t⌬ tabnine"
+			],
+			[
+				"Mo",
+				"Motion__Speed\t⌬ tabnine"
+			],
+			[
+				"Time",
+				"Time.deltaTime);\t⌬ tabnine"
+			],
+			[
+				"M",
+				"Motion__Speed\t⌬ tabnine"
+			],
+			[
+				"Ge",
+				"GetComponent\t⌬ tabnine"
+			],
+			[
+				"R",
+				"RigidBody2D\t⌬ tabnine"
+			],
+			[
+				"a",
+				"absolute\tposition"
+			],
+			[
+				"spac",
+				"space-between;\t⌬ tabnine"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"boe",
+				"border-right\tproperty"
+			],
+			[
+				"padd",
+				"padding-left\tproperty"
+			],
+			[
+				"ds",
+				"display: flex;\t⌬ tabnine"
+			],
+			[
+				"ma",
+				"margin\t⌬ tabnine"
+			],
+			[
+				"pd",
+				"padding\tproperty"
+			],
+			[
+				"o",
+				"overflow\tproperty"
+			],
+			[
+				"conta",
+				"contact\t⌬ tabnine"
+			],
+			[
+				"flex",
+				"flex-wrap\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"list-sty",
+				"list-style-type\tproperty"
+			],
+			[
+				"mat",
+				"margin-top\tproperty"
+			],
+			[
+				"align",
+				"align-items\tproperty"
+			],
+			[
+				"tet",
+				"text\t⌬ tabnine"
+			],
+			[
+				"aligi",
+				"align-items\tproperty"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"paddi",
+				"padding-top\tproperty"
+			],
+			[
+				"he",
+				"height\tproperty"
+			],
+			[
+				"offer_co",
+				"offer_container\t⌬ tabnine"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"header_c",
+				"header_container_white\t⌬ tabnine"
+			],
+			[
+				"c",
+				"color\tproperty"
+			],
+			[
+				"padding-",
+				"padding-bottom\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"text-",
+				"text-transform\tproperty"
+			],
+			[
+				"marg",
+				"margin-left\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"li",
+				"line-height\tproperty"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"sans",
+				"sans-serif;\t⌬ tabnine"
+			],
+			[
+				"st",
+				"flex-start\tjustify-content"
+			],
+			[
+				"spa",
+				"space-between\tjustify-content"
+			],
+			[
+				"lis",
+				"list-style-type\tproperty"
+			],
+			[
+				"d",
+				"display\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"ba",
+				"background-\t⌬ tabnine"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"GetInt",
+				"GetInt(\"Pistol\");\t⌬ tabnine"
+			],
+			[
+				"SetInt",
+				"SetInt(\"money\t⌬ tabnine"
+			],
+			[
+				"Ga",
+				"GameObject\t⌬ tabnine"
+			],
+			[
+				"Stop",
+				"StopCoroutine(HealtLoss());\t⌬ tabnine"
+			],
+			[
+				"Hea",
+				"HealtText\t⌬ tabnine"
+			],
+			[
+				"heal",
+				"health\t⌬ tabnine"
+			],
+			[
+				"H",
+				"HPBoss\t⌬ tabnine"
+			],
+			[
+				"HP",
+				"HPBoss\");\t⌬ tabnine"
+			],
+			[
+				"Serial",
+				"SerializeField]\t⌬ tabnine"
+			],
+			[
+				"Do",
+				"Double_Сlick\t⌬ tabnine"
+			],
+			[
+				"PR",
+				"PresentMoney\t⌬ tabnine"
+			],
+			[
+				"Fi",
+				"FirstMillion\t⌬ tabnine"
+			],
+			[
+				"D",
+				"Diamond\t⌬ tabnine"
+			],
+			[
+				"Firs",
+				"FirstHundredDiamond\t⌬ tabnine"
+			],
+			[
+				"First",
+				"FirstHundred\t⌬ tabnine"
+			],
+			[
+				"Invo",
+				"InvokeInt\t⌬ tabnine"
+			],
+			[
+				"Sce",
+				"SceneManager.LoadScene(\t⌬ tabnine"
+			],
+			[
+				"Un",
+				"UnityEngine.UI;\t⌬ tabnine"
+			],
+			[
+				"Sta",
+				"StartCoroutine\t⌬ tabnine"
+			],
+			[
+				"Pre",
+				"Present\t⌬ tabnine"
+			],
+			[
+				"Ra",
+				"Random.Range(\t⌬ tabnine"
+			],
+			[
+				"In",
+				"InvokeInt\t⌬ tabnine"
+			],
+			[
+				"G",
+				"GameObject\t⌬ tabnine"
+			],
+			[
+				"ye",
+				"yield return\t⌬ tabnine"
+			],
+			[
+				"De",
+				"Destroy(PresentMoney);\t⌬ tabnine"
+			],
+			[
+				"Prefa",
+				"PrefabPresent\t⌬ tabnine"
+			],
+			[
+				"S",
+				"StartCoroutine"
+			],
+			[
+				"T",
+				"Transform\t⌬ tabnine"
+			],
+			[
+				"Pr",
+				"PresentMoney);\t⌬ tabnine"
+			],
+			[
+				"Cans",
+				"Canvas\t⌬ tabnine"
+			],
+			[
+				"Min",
+				"MainCamera\t⌬ tabnine"
+			],
+			[
+				"Spa",
+				"SpawnPresent\t⌬ tabnine"
+			],
+			[
+				"ow",
+				"ownRectTransform.\t⌬ tabnine"
+			],
+			[
+				"own",
+				"ownRectTransform\t⌬ tabnine"
+			],
+			[
+				"vert",
+				"verticalInput\t⌬ tabnine"
+			],
+			[
+				"ve",
+				"verticalInput\t⌬ tabnine"
+			],
+			[
+				"P",
+				"PresentMoney\t⌬ tabnine"
+			],
+			[
+				"pre",
+				"present\t⌬ tabnine"
+			],
+			[
+				"To",
+				"ToString()\t⌬ tabnine"
+			],
+			[
+				"SetS",
+				"SetString\t⌬ tabnine"
+			],
+			[
+				"Pla",
+				"PlayerPrefs\t⌬ tabnine"
+			],
+			[
+				"A",
+				"AutoFarm\");\t⌬ tabnine"
+			],
+			[
+				"p",
+				"priceAutoFarm\t⌬ tabnine"
+			],
+			[
+				"Id",
+				"IdleFarm\t⌬ tabnine"
+			],
+			[
+				"StartC",
+				"StartCoroutine\t⌬ tabnine"
+			],
+			[
+				"Set",
+				"SetInt(\"\t⌬ tabnine"
+			],
+			[
+				"Main",
+				"MainCamera\t⌬ tabnine"
+			],
+			[
+				"PlayerPr",
+				"PlayerProfiles.Get\t⌬ tabnine"
+			],
+			[
+				"intera",
+				"interactives\t⌬ tabnine"
+			],
+			[
+				"Interac",
+				"Interactive\t⌬ tabnine"
+			],
+			[
+				"in",
+				"increase_in_income"
+			],
+			[
+				"m",
+				"money"
+			],
+			[
+				"auto",
+				"auto_click"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package Control: In",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/defolz/Work/ThriveTalk/css/style.css",
+		"/Users/defolz/Work/Cosmetic Clinic/css/style.css",
+		"/Users/defolz/Work/ThriveTalk/home.html",
+		"/Users/defolz/Work/Cosmetic Clinic/index.html",
+		"/Users/defolz/Tests/Assets/Script/Player/Player_Shooting.cs",
+		"/Users/defolz/Tests/Assets/Script/Player/Motion_Controller.cs",
+		"/Users/defolz/Tests/Assets/Script/Player/TopDownCharacterController.cs",
+		"/Users/defolz/Tests/Assets/Script/Enemy/Enemy_Controller.cs",
+		"/Users/defolz/Tests/Assets/Script/Player/Motion_SpriteRender.cs",
+		"/Users/defolz/Tests/Assets/Script/Motion_Controller.cs",
+		"/Users/defolz/Tests/Assets/Script/Motion_Contrller.cs",
+		"/Users/defolz/Russia Mafia — копия 2/Assets/script/fight.cs",
+		"/Users/defolz/Downloads/ДЗ3 2/css/main.css",
+		"/Users/defolz/Downloads/ДЗ3 2/index.html",
+		"/Users/defolz/ThriveTalk/css/style.css",
+		"/Users/defolz/ThriveTalk/home.html",
+		"/Users/defolz/Russia Mafia/Assets/script/update.cs",
+		"/Users/defolz/Russia Mafia/Assets/script/healthAll.cs",
+		"/Users/defolz/Russia Mafia/Assets/script/operatorsvz.cs",
+		"/Users/defolz/Russia Mafia/Assets/script/money.cs",
+		"/Users/defolz/Russia Mafia/Assets/script/health.cs",
+		"/Users/defolz/2d game — копия/Assets/scripts/Clicker.cs",
+		"/Users/defolz/Russia Mafia/Assets/script/LoadScene1.cs",
+		"/Users/defolz/Downloads/radlled.github.io-master/homepage.html",
+		"/Users/defolz/2d game — копия/Assets/scripts/shop.cs",
+		"/Users/defolz/Downloads/radlled.github.io-master/css/style.css",
+		"/Users/defolz/Downloads/radlled.github.io-master/css/animate.css",
+		"/Users/defolz/Downloads/ДЗ3/index.html",
+		"/Users/defolz/Russia Mafia/Assets/script/ifdeath.cs",
+		"/Users/defolz/Russia Mafia/Assets/script/hit.cs",
+		"/Users/defolz/Russia Mafia/Assets/script/healthloss.cs",
+		"/Users/defolz/Downloads/ДЗ3/css/main.css",
+		"/Users/defolz/Russia Mafia/Assets/script/Health loss.cs",
+		"/Users/defolz/clicker-master/Assets/scripts/new/PlayerData.cs",
+		"/Users/defolz/2dgame/Assets/scripts/present.cs",
+		"/Users/defolz/.Trash/present.cs",
+		"/Users/defolz/2dgame/Assets/scripts/audio.cs",
+		"/Users/defolz/2dgame/Assets/scripts/PlayerSave.cs",
+		"/Users/defolz/2dgame/Assets/scripts/achivements.cs",
+		"/Users/defolz/2dgame/Assets/scripts/shop.cs",
+		"/Users/defolz/2dgame/Assets/scripts/ScoreManager.cs",
+		"/Users/defolz/2dgame/Assets/scripts/Achivements1.cs",
+		"/Users/defolz/2dgame/Assets/scripts/Clicker.cs",
+		"/Users/defolz/2dgame/Assets/scripts/LoadScene.cs",
+		"/Users/defolz/2dgame/Assets/scripts/spawnBonus.cs",
+		"/Users/defolz/2d game/Assets/scripts/ScoreManager.cs",
+		"/Users/defolz/2d game/Assets/scripts/shop.cs",
+		"/Users/defolz/2d game/Assets/scripts/Clicker.cs",
+		"/Users/defolz/2d game/Assets/scripts/LoadScene.cs",
+		"/Users/defolz/2d game/Assets/scripts/audio.cs",
+		"/Users/defolz/2d game/Assets/scripts/triggermoney.cs",
+		"/Users/defolz/2d game/Assets/scripts/animation button.cs",
+		"/Users/defolz/2d game/Assets/scripts/new.cs",
+		"/Users/defolz/2d game/Assets/triggermoney.cs",
+		"/Users/defolz/Downloads/pirateend-2.py",
+		"/Users/defolz/Documents/Важное/prov.py",
+		"/Users/defolz/Downloads/project-3-2-3.py",
+		"/Users/defolz/Desktop/SHALUN)))/project-3-2.py",
+		"/Users/defolz/Desktop/eee/eee.py",
+		"/Users/defolz/Downloads/project-3-2.py",
+		"/Users/defolz/Downloads/buildozer-master/setup.py",
+		"/Users/defolz/Desktop/eee.py",
+		"/from kivy.app import App"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 102.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 108.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Важное/prov.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
